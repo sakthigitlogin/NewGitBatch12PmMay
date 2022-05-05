@@ -3,6 +3,7 @@ package org.test;
 public class Example {
 
 	int a=100;
+	int b=20;
 	int c=200;
 	
 	public void add(int a, int b) {
